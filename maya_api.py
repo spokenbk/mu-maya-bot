@@ -7,5 +7,5 @@
   "name": "Captain Hook",
   "type": 1,
   "token": "vIwoveF2UWnffljuHG-5X5DBMxOG4vivrxgPDhbmybEvfdSCuWYk2gQEpQ1zmJmDdUlp",
-  "url": "DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/SEU_WEBHOOK"
+  "url": "DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1359976676959977502/vIwoveF2UWnffljuHG-5X5DBMxOG4vivrxgPDhbmybEvfdSCuWYk2gQEpQ1zmJmDdUlp"
 }
